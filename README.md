@@ -4,7 +4,7 @@ Hi! :wave:</h1>
 <p align='center'>
 I'm Brandon Axell Ruiz.
 </p>
-<p align='center'>For enquiries, reach out https://brandonaxellruiz.000webhostapp.com.</p>
+<p align='center'>For enquiries, reach out https://brandonaxellruiz.000webhostapp.com/Portafolio.</p>
 
 <h1 align='center'><i>Stay awesome! :)</i></h1> 
   
