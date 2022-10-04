@@ -6,7 +6,7 @@ Web and Mobile Developer
 
 * 🌍  I'm based in Piedras Negras, Coahuila, Mexico
 * 🖥️  See my portfolio at [My portafolio](http://barrcode.dev)
-* ✉️  You can contact me at [brandon\_axell@hotmail.com](mailto:brandon.ruiz@barrcode.dev)
+* ✉️  You can contact me at [brandon.ruiz@barrcode.dev](mailto:brandon.ruiz@barrcode.dev)
 * 🧠  I'm learning Flutter
 
 <a href="https://www.twitter.com/BrandonAxellR" target="_blank" rel="noreferrer"><img
