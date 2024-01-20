@@ -5,9 +5,9 @@ AI, Web, Mobile And IOT Developer.
 ------------------------
 
 * 🌍  I'm based in Piedras Negras, Coahuila, Mexico
-* 🖥️  See my portfolio at [My portafolio](http://barrcode.dev)
 * 💬  You can send me a WhatsApp at [8781116324](https://wa.me/5218781116324)
 * ✉️  You can contact me at [brandon.ruiz@barrcode.dev](mailto:brandon.ruiz@barrcode.dev)
+* 🖥️  See my portfolio at [My portafolio](http://barrcode.dev)
 * 🧠  I'm learning AI | Gamer by the way | Basketball lover
 
 <a href="https://www.twitter.com/BrandonAxellR" target="_blank" rel="noreferrer"><img
