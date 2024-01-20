@@ -1,13 +1,14 @@
 Hi 👋 My name is Brandon Axell Ruiz Ramirez
 ===========================================
 
-Web and Mobile Developer
+AI, Web, Mobile And IOT Developer.
 ------------------------
 
 * 🌍  I'm based in Piedras Negras, Coahuila, Mexico
 * 🖥️  See my portfolio at [My portafolio](http://barrcode.dev)
+* 💬  You can send me a WhatsApp at [8781116324](https://wa.me/5218781116324)
 * ✉️  You can contact me at [brandon.ruiz@barrcode.dev](mailto:brandon.ruiz@barrcode.dev)
-* 🧠  I'm learning Flutter | Gamer by the way | Basketball lover
+* 🧠  I'm learning AI | Gamer by the way | Basketball lover
 
 <a href="https://www.twitter.com/BrandonAxellR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/BrandonAxellR?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
