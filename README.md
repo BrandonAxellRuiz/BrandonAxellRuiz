@@ -1,7 +1,7 @@
 Hi 👋 My name is Brandon Axell Ruiz Ramirez
 ===========================================
 
-AI, Web, Mobile And IOT Developer.
+AI, Automator, Web, Mobile And IOT Developer.
 ------------------------
 
 * 🌍  I'm based in Piedras Negras, Coahuila, Mexico
