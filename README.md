@@ -5,7 +5,7 @@ AI, Automator, Web, Mobile And IOT Developer.
 ------------------------
 
 * 🌍  I'm based in Piedras Negras, Coahuila, Mexico
-* 💬  You can send me a WhatsApp at [8781116324](https://wa.me/5218781011009)
+* 💬  You can send me a WhatsApp at [8781011009](https://wa.me/5218781011009)
 * ✉️  You can contact me at [brandon.ruiz@barrcode.dev](mailto:brandon.ruiz@barrcode.dev)
 * 🖥️  See my portfolio at [My portafolio](http://www.barrcode.dev)
 * 🧠  I'm learning AI | Gamer by the way | Basketball lover
